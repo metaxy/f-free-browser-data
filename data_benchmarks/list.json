@@ -1,0 +1,842 @@
+[
+  {
+    "fileName": "./data_benchmarks/2016_04_12__22_38_29/results.json",
+    "time": "2016.04.12 22:38:29",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/splitcluster",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_12__23_58_30/results.json",
+    "time": "2016.04.12 23:58:30",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__00_41_01/results.json",
+    "time": "2016.04.13 00:41:01",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cograph",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__01_37_59/results.json",
+    "time": "2016.04.13 01:37:59",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/x172_triangle",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__02_45_38/results.json",
+    "time": "2016.04.13 02:45:38",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__03_54_14/results.json",
+    "time": "2016.04.13 03:54:14",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/split",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__04_52_18/results.json",
+    "time": "2016.04.13 04:52:18",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/k14_paw",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__05_53_09/results.json",
+    "time": "2016.04.13 05:53:09",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/2k2_c4_c5",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__06_51_30/results.json",
+    "time": "2016.04.13 06:51:30",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/splitcluster",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__07_51_58/results.json",
+    "time": "2016.04.13 07:51:58",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__08_10_24/results.json",
+    "time": "2016.04.13 08:10:24",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cograph",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__09_11_59/results.json",
+    "time": "2016.04.13 09:11:59",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/x172_triangle",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__10_10_39/results.json",
+    "time": "2016.04.13 10:10:39",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__11_14_53/results.json",
+    "time": "2016.04.13 11:14:53",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/split",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__12_25_19/results.json",
+    "time": "2016.04.13 12:25:19",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/k14_paw",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__13_27_45/results.json",
+    "time": "2016.04.13 13:27:45",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/2k2_c4_c5",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__14_38_42/results.json",
+    "time": "2016.04.13 14:38:42",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/splitcluster",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__15_04_55/results.json",
+    "time": "2016.04.13 15:04:55",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__15_17_41/results.json",
+    "time": "2016.04.13 15:17:41",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cograph",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__15_46_59/results.json",
+    "time": "2016.04.13 15:46:59",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/x172_triangle",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__16_21_51/results.json",
+    "time": "2016.04.13 16:21:51",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__16_51_23/results.json",
+    "time": "2016.04.13 16:51:23",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/split",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__17_34_53/results.json",
+    "time": "2016.04.13 17:34:53",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/k14_paw",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__18_09_08/results.json",
+    "time": "2016.04.13 18:09:08",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/2k2_c4_c5",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__18_52_38/results.json",
+    "time": "2016.04.13 18:52:38",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/splitcluster",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_13__22_13_39/results.json",
+    "time": "2016.04.13 22:13:39",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__01_02_32/results.json",
+    "time": "2016.04.14 01:02:32",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cograph",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__04_22_26/results.json",
+    "time": "2016.04.14 04:22:26",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/x172_triangle",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__07_35_44/results.json",
+    "time": "2016.04.14 07:35:44",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__11_56_25/results.json",
+    "time": "2016.04.14 11:56:25",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/split",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__14_43_02/results.json",
+    "time": "2016.04.14 14:43:02",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/k14_paw",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__17_44_47/results.json",
+    "time": "2016.04.14 17:44:47",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/2k2_c4_c5",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__20_31_39/results.json",
+    "time": "2016.04.14 20:31:39",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/splitcluster",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__20_39_30/results.json",
+    "time": "2016.04.14 20:39:30",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__20_46_33/results.json",
+    "time": "2016.04.14 20:46:33",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/cograph",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__20_53_53/results.json",
+    "time": "2016.04.14 20:53:53",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/x172_triangle",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__21_05_10/results.json",
+    "time": "2016.04.14 21:05:10",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__21_13_13/results.json",
+    "time": "2016.04.14 21:13:13",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/split",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__21_42_11/results.json",
+    "time": "2016.04.14 21:42:11",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/k14_paw",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_14__21_51_29/results.json",
+    "time": "2016.04.14 21:51:29",
+    "progs": [
+      "extend",
+      "simple_random",
+      "random",
+      "grow_reduce3",
+      "grow_reduce",
+      "grow_reduce_boost --sort neighbors",
+      "grow_reduce_boost --sort neighbors_rev",
+      "grow_reduce_boost --sort hits_rev",
+      "grow_reduce_boost --sort random",
+      "grow_reduce_boost --sort hits --reduce count"
+    ],
+    "forbidden": "./forbidden/2k2_c4_c5",
+    "instances": "./model/powerlaw"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__11_05_36/results.json",
+    "time": "2016.04.20 11:05:36",
+    "progs": [
+      "grow_reduce_boost",
+      "mover"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__11_11_56/results.json",
+    "time": "2016.04.20 11:11:56",
+    "progs": [
+      "grow_reduce_boost",
+      "mover"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__12_46_35/results.json",
+    "time": "2016.04.20 12:46:35",
+    "progs": [
+      "grow_reduce_boost",
+      "mover"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__12_53_45/results.json",
+    "time": "2016.04.20 12:53:45",
+    "progs": [
+      "grow_reduce_boost",
+      "mover"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__13_09_36/results.json",
+    "time": "2016.04.20 13:09:36",
+    "progs": [
+      "grow_reduce_boost",
+      "mover"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__13_12_44/results.json",
+    "time": "2016.04.20 13:12:44",
+    "progs": [
+      "grow_reduce_boost",
+      "mover"
+    ],
+    "forbidden": "./forbidden/p4_c4",
+    "instances": "./model/newman_watts_strogatz"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__17_29_08/results.json",
+    "time": "2016.04.20 17:29:08",
+    "progs": [
+      "approx2k",
+      "grow_reduce_boost --rounds 5"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/bio1"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__17_31_40/results.json",
+    "time": "2016.04.20 17:31:40",
+    "progs": [
+      "approx2k",
+      "grow_reduce_boost --rounds 5"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/bio2"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__17_36_40/results.json",
+    "time": "2016.04.20 17:36:40",
+    "progs": [
+      "approx2k",
+      "grow_reduce_boost --rounds 5"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/duplication_divergence"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__17_36_57/results.json",
+    "time": "2016.04.20 17:36:57",
+    "progs": [
+      "approx2k",
+      "grow_reduce_boost --rounds 5"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/newman_watts_strogatz"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__17_38_17/results.json",
+    "time": "2016.04.20 17:38:17",
+    "progs": [
+      "approx2k",
+      "grow_reduce_boost --rounds 5"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/albert_barabasi"
+  },
+  {
+    "fileName": "./data_benchmarks/2016_04_20__18_17_08/results.json",
+    "time": "2016.04.20 18:17:08",
+    "progs": [
+      "approx2k",
+      "grow_reduce_boost --rounds 5"
+    ],
+    "forbidden": "./forbidden/cluster",
+    "instances": "./model/binomial"
+  }
+]
